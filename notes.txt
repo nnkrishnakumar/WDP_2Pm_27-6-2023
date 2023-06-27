@@ -1,0 +1,44 @@
+27/6/2023
+------------
+python introduction:
+> print()
+> variable
+> comment
+> datatype
+    > int
+    > float
+    > string
+    > list
+    > tuple
+    > set
+    > dictinary
+    > frozenset
+    > bool
+    > complex
+> input()
+> conditional programming(if, else , elif, nested if else, nested if elif else, ternary operator )
+> loop
+    > for loop(nest for loop, list comprehension, dictionary comprehension, set comprehension)
+    > while loop(nest while loop)
+    > pattern using single loop(for loop, while loop)
+    > pattern using more then one loop(for loop, while loop )
+> function 
+    > def 
+    > lambda(anonymous function, fat function )
+> decorator
+> multitasking(threading)
+> garbage collector (gc)
+> OOPs(object oriented programming)
+    > class
+    > object
+    > Encapsulation
+    > polymorphism
+    > inheritance
+    > abstraction 
+        <<>> class function 
+            >> class variable 
+            >> static function
+
+> Database(CRUD--> Create , Read , Update, delete)
+    > SQL(Mysql)
+    > NoSQL(MongoDB)
